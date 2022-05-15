@@ -2,6 +2,6 @@
 
 ---
 
-Test si esto rula.
+Test si esto rula. Con gif
 
-<img src="./Yamato_test.png">
+<img src="https://c.tenor.com/_fc4Q1rDAikAAAAC/yamato-one-piece.gif" />
